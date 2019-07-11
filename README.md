@@ -19,11 +19,11 @@ Little tool for performing curl loop
 
 ## Installation
 
-Download last release
-Un-compress it and move it to your /usr/local/bin
-chmod +x curloop
+You can download binaries via the releases page.
 
-Ex:
+Or...
+
+    curl https://raw.githubusercontent.com/satare/curloop/master/install.sh | bash
 
 ## Build from source
 
