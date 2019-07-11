@@ -27,4 +27,6 @@ Or...
 
 ## Build from source
 
-I packaged this application using pyinstaller : pyinstaller curloop.py -F
+I packaged this application using pyinstaller
+    
+    pyinstaller curloop.py -F
